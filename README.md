@@ -22,7 +22,7 @@
 
 ### 2.2 翻译管理后台
 
-这个是项目是用vue开发的前端项目，项目地址为：，ui框架使用的是element-ui，请求框架用的是axios。
+这个是项目是用vue开发的前端项目，项目地址为：https://github.com/MZCretin/vue-translate-web ，ui框架使用的是element-ui，请求框架用的是axios。
 
 管理后台主要有三个页面，一个是翻译工具下载页面，一个是翻译模块配置页面，一个是国际化翻译页面。
 
