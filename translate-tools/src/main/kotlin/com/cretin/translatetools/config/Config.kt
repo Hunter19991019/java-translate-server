@@ -2,7 +2,7 @@ package com.cretin.translatetools.config
 
 class Config {
     companion object {
-        val IS_DEBUG = false
+        val IS_DEBUG = true
         val CAN_UPLAOD_EN = false // 是否可以上传英文版本
         val VERSION = "v1.1.0"
 //        val HOST = "http://127.0.0.1:9003"//测试环境

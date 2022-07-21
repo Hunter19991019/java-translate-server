@@ -4,8 +4,8 @@
 
 spring:
   profiles:
-    active: prod,daoProd,redisProd
-#    active: dev,daoDev,redisDev
+#    active: prod,daoProd,redisProd
+    active: dev,daoDev,redisDev
   mvc:
     favicon:
       enabled: false
